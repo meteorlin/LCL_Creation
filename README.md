@@ -1,6 +1,6 @@
 # LCL_Creation
 
-- [ ] 学习Python
+- [x] 学习Python
 - [ ] 学习Pytorch
 - [ ] 解析Posenet源码
 - [ ] 从Posenet中导出人体关键点坐标
