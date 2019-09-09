@@ -1,6 +1,9 @@
 # LCL_Creation
 
 - [x] 学习Python
+- [ ] 尝试将Openpose的手部和脸部模型转移到tensorflow上
+
+
 - [ ] 学习Pytorch
 - [ ] 解析Posenet源码
 - [ ] 从Posenet中导出人体关键点坐标
